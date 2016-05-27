@@ -78,3 +78,5 @@ Maintainers
 
 * Kylo Ginsberg, kylo@puppet.com, github:kylog, jira:kylo
 * Henrik Lindberg, henrik.lindberg@puppet.com, github:hlindberg, jira:henrik.lindberg
+
+Edit by kai @test branch
